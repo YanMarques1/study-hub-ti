@@ -6,9 +6,13 @@ Planejamento do meu estudo no Study Hub curso de ADS
 study-hub-ti
 
 ├── 01-Introducao-a-Computacao
+
 │   ├── Atividades
+
 │   ├── Trabalhos
+
 │   └── Resumos
+
 │
 
 ├── 02-Engenharia-de-Software
