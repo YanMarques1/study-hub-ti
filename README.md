@@ -7,45 +7,68 @@ study-hub-ti
 
 ├── 01-Introducao-a-Computacao
 
-│   ├── Atividades
+│      ├── Atividades
 
-│   ├── Trabalhos
+│      ├── Trabalhos
 
-│   └── Resumos
+│      └── Resumos
 
 │
 
 ├── 02-Engenharia-de-Software
-│   ├── Atividades
-│   ├── Trabalhos
-│   └── Resumos
+
+│      ├── Atividades
+
+│      ├── Trabalhos
+
+│      └── Resumos
+
 │
 
 ├── 03-Banco-de-Dados-1
-│   ├── Atividades
-│   ├── Scripts-SQL
-│   ├── Trabalhos
-│   └── Resumos
+
+│      ├── Atividades
+
+│      ├── Scripts-SQL
+
+│      ├── Trabalhos
+
+│      └── Resumos
+
 │
 
 ├── 04-Logica-de-Programacao
-│   ├── Exercicios
-│   ├── Trabalhos
-│   └── Projetos
+
+│      ├── Exercicios
+
+│      ├── Trabalhos
+
+│      └── Projetos
+ 
 │
 
 ├── 05-Matematica-para-Computacao
-│   ├── Atividades
-│   ├── Exercicios
-│   └── Resumos
+
+│      ├── Atividades
+
+│      ├── Exercicios
+
+│      └── Resumos
+
 │
 
 ├── 06-Bootcamp-1
-│   ├── Atividades
-│   ├── Entregas
-│   ├── Projetos
-│   └── Resumos
+
+│      ├── Atividades
+
+│      ├── Entregas
+
+│      ├── Projetos
+
+│      └── Resumos
+
 │
 
 ├── Projetos-Pessoais
+
 -── Certificados
